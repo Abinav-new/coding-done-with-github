@@ -6,6 +6,6 @@
 # add a file extension to create a file
 # that's how i do it
 # this is my gihub repository github.com/Abinav-new/coding-done-with=gihub.git
-# you can clone it  on any device  (android and ios) (your's terminal and pc (windows macos and Linux and play my guessing number game
+# you can clone it  on any device  (android and ios) (your's terminal has git installed) and pc (windows macos and Linux and (your's termial has git installed) also play my guessing number game
 # and also folk it :)
 # that's it.....
